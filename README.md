@@ -4,6 +4,10 @@ Welcome to the Advent of Code[^aoc] Kotlin project created by [ecogamer18][githu
 
 In this repository, ecogamer18 is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
 
+Day01:  [ solution](src/Day01.kt)  
+Day02:  [ solution](src/Day02.kt)  
+Day03:  [ solution](src/Day03.kt)  
+
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
 - [Kotlin docs][docs]
