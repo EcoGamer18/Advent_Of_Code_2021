@@ -27,11 +27,9 @@ fun main() {
                     depth_position += number*aim
                 }
                 "up" -> {
-                    //depth_position -= number
                     aim -= number
                 }
                 "down" -> {
-                    //depth_position += number
                     aim += number
                 }
             }
