@@ -36,7 +36,7 @@ fun main() {
 
             var result_bit = 0
             for(element in oxygen){
-                result_bit = result_bit + Character.getNumericValue(element[i])
+                result_bit += Character.getNumericValue(element[i])
             }
 
             if(result_bit >= oxygen.size/2 + oxygen.size % 2) {
@@ -71,7 +71,7 @@ fun main() {
 
             var result_bit = 0
             for(element in CO2){
-                result_bit = result_bit + Character.getNumericValue(element[i])
+                result_bit += Character.getNumericValue(element[i])
             }
 
             if(result_bit >= CO2.size/2 + CO2.size%2) {
