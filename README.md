@@ -7,6 +7,7 @@ In this repository, ecogamer18 is about to provide solutions for the puzzles usi
 Day01:  [ solution](src/Day01.kt)  
 Day02:  [ solution](src/Day02.kt)  
 Day03:  [ solution](src/Day03.kt)  
+Day04:  [ solution](src/Day04.kt)  
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
